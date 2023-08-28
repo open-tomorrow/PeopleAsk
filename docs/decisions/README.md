@@ -6,7 +6,7 @@ This directory contains decision records for PeopleAsk.
 
 - Copy `adr-template.md` to `NNNN-title-with-dashes.md`
 - Edit `NNNN-title-with-dashes.md`
-- Open pull request to `open-tomorrow/PeopleAsk`
+- Open pull requests to `open-tomorrow/PeopleAsk`
 
 ## Resources
 

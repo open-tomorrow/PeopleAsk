@@ -18,7 +18,7 @@ outcome of a petition and thus empowers organizers to submit petitions
 to governments without them being able to ignore them.
 
 Moreover, a foundation statement for PeopleAsk is to be a completely
-available solution for everyone who may want to use it without any restriction.
+available solution for everyone who may want to use it without any restrictions.
 This implies that Motivations, architecture, design, decisions,
 code and documentation must be open and public.
 
